@@ -33,14 +33,14 @@ Hãy cùng tạo nên những giải pháp sáng tạo và đóng góp cho cộn
 
 # My external awards
  <div style="width:100px; display:inline-block; vertical-align:middle; margin-right:10px;">
-  <img src="./1.jpg" height="300px" width="450px" style="float:left;">
-  <img src="./4.jpg" height="300px" width="450px"   style="float:left;">
+  <img src="./1.jpg" height="250px" width="400px" style="float:left;">
+  <img src="./4.jpg" height="250px" width="400px"   style="float:left;">
  
 </div>
 </br>
 <div style="width:100px; display:block; vertical-align:middle; margin:auto; ">
- <img src="./5.jpg" height="450px" width="450px" style="margin: auto" >
+ <img src="./5.jpg" height="350px" width="400px" style="margin: auto" >
 </div>
 
-<hr style="height="5px">
+---
 [![](https://visitcount.itsvg.in/api?id=hieuthao09&icon=5&color=4)](https://visitcount.itsvg.in)
