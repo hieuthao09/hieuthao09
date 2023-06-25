@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi, I'm Hieu Thao,  </br>
+### Hi, I'm Hieu Thao,  </br>
 A passionate and creative programmer. </br>
 I create projects and share code on GitHub.  </br>
 I love building web applications and software,  </br>
@@ -14,7 +14,7 @@ Tôi tạo ra các dự án và chia sẻ mã nguồn trên GitHub.  </br>
 Tôi đam mê việc xây dựng ứng dụng web và phần mềm, và luôn tìm kiếm cơ hội để học hỏi và phát triển kỹ năng của mình.  </br>
 Hãy cùng tạo nên những giải pháp sáng tạo và đóng góp cho cộng đồng phát triển phần mềm!
 
-## 🌐Socials
+# 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/thaotran.a.10) 
 
 # 💻Tech Stack
@@ -31,6 +31,14 @@ Hãy cùng tạo nên những giải pháp sáng tạo và đóng góp cho cộn
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### My external awards
+ <div style="width:100px; display:inline-block; vertical-align:middle; margin-right:10px;">
+  <img src="./1.jpg" height="300px" width="450px" style="float:left;">
+  <img src="./4.jpg" height="300px" width="450px"   style="float:left;">
+ 
+</div>
+<div style="width:100px; display:inline-block; vertical-align:middle; margin-right:10px; margin-left: 50px">
+ <img src="./5.jpg" height="300px" width="450px" >
+</div>
 
 
 ---
