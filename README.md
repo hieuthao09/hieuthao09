@@ -7,13 +7,6 @@ Always seeking opportunities to learn and develop my skills.  </br>
 Let's create innovative solutions and  </br>
 Contribute to the software development community together </br>
 
-Xin chào! </br>
-Tôi là Hiếu Thảo,  </br>
-Một lập trình viên đam mê và sáng tạo.  </br>
-Tôi tạo ra các dự án và chia sẻ mã nguồn trên GitHub.  </br>
-Tôi đam mê việc xây dựng ứng dụng web và phần mềm, và luôn tìm kiếm cơ hội để học hỏi và phát triển kỹ năng của mình.  </br>
-Hãy cùng tạo nên những giải pháp sáng tạo và đóng góp cho cộng đồng phát triển phần mềm!
-
 # 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/thaotran.a.10) 
 
