@@ -24,7 +24,7 @@ Contribute to the software development community together </br>
 ## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# My external awards
+<!--# My external awards
  <div style="width:100px; display:inline-block; vertical-align:middle; margin-right:10px;">
    <!--<img src="./1.jpg" height="250px" width="400px" style="float:left;">-->
   <!--<img src="./4.jpg" height="250px" width="400px"   style="float:left;">-->
@@ -33,7 +33,7 @@ Contribute to the software development community together </br>
 </br>
 <div style="width:100px; display:block; vertical-align:middle; margin:auto; ">
   <!--<img src="./5.jpg" height="350px" width="400px" style="margin: auto" >-->
-</div>
+</div>-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hieuthao09&icon=5&color=4)](https://visitcount.itsvg.in)
