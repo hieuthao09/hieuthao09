@@ -31,7 +31,7 @@ Contribute to the software development community together </br>
  
 </div>
 </br>
-<div style="width:100px; display:block; vertical-align:middle; margin:auto; ">
+<!--<div style="width:100px; display:block; vertical-align:middle; margin:auto; ">
   <!--<img src="./5.jpg" height="350px" width="400px" style="margin: auto" >-->
 </div>-->
 
