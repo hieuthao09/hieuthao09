@@ -26,13 +26,13 @@ Contribute to the software development community together </br>
 
 # My external awards
  <div style="width:100px; display:inline-block; vertical-align:middle; margin-right:10px;">
-  <img src="./1.jpg" height="250px" width="400px" style="float:left;">
-  <img src="./4.jpg" height="250px" width="400px"   style="float:left;">
+   <!--<img src="./1.jpg" height="250px" width="400px" style="float:left;">-->
+  <!--<img src="./4.jpg" height="250px" width="400px"   style="float:left;">-->
  
 </div>
 </br>
 <div style="width:100px; display:block; vertical-align:middle; margin:auto; ">
- <img src="./5.jpg" height="350px" width="400px" style="margin: auto" >
+  <!--<img src="./5.jpg" height="350px" width="400px" style="margin: auto" >-->
 </div>
 
 ---
